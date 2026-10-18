@@ -1,3 +1,26 @@
+<!-- CASFETA SCREENSHOTS START -->
+# CASFETA AI — ContractShield
+
+**Intelligent Contract Risk Analysis Platform**
+
+## Application Screenshots
+
+### Dashboard
+![Dashboard](Docs/screenshots/dashboard.png)
+
+### Contract Analysis
+![Contract Analysis](Docs/screenshots/contract-analysis.png)
+
+### Risk Report
+![Risk Report](Docs/screenshots/risk-report.png)
+
+### Review Pipeline
+![Review Pipeline](Docs/screenshots/review-pipeline.png)
+
+<!-- CASFETA SCREENSHOTS END -->
+
+---
+
 # CASFETA ContractShield AI
 
 CASFETA ContractShield AI is an evidence-backed contract screening workspace for teams that need a faster first pass over commercial agreements. It combines a transparent rules engine, optional AI explanations, clause-level evidence, saved risk reports and PDF export in a document-centric LegalTech interface.
